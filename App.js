@@ -70,7 +70,6 @@ function AppNavigator() {
     </Stack.Navigator>
   );
 }
-
 export default function App() {
   return (
     <AuthProvider>
@@ -82,3 +81,5 @@ export default function App() {
     </AuthProvider>
   );
 }
+
+///n
