@@ -36,5 +36,10 @@ La aplicación opera mediante un sistema de autenticación y control de roles qu
    - **Panel de Control (`TeacherDashboardScreen`):** Ofrece una vista administrativa para la gestión y supervisión de los contenidos educativos.
    - **Formulario de Recursos (`ResourceFormScreen`):** Permite a los profesores registrar nuevos recursos, editar los ya existentes o eliminarlos del sistema, manteniendo el catálogo actualizado.
   
-## ⚙️ ¿Cómo Correr el programa?
-4. 
+## 🚀 ¿Cómo correr el proyecto localmente?
+
+Sigue estos pasos para clonar y ejecutar la aplicación en tu entorno de desarrollo:
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/AlisonGonzalez666/learning-resources-app.git](https://github.com/AlisonGonzalez666/learning-resources-app.git)
