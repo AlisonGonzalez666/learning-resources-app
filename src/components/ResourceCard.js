@@ -1,3 +1,5 @@
+//mostrando recursos educativos
+
 import React from 'react';
 import { View, StyleSheet, Image, Linking } from 'react-native';
 import { Card, Title, Paragraph, Button, Text, IconButton, useTheme } from 'react-native-paper';
