@@ -11,6 +11,7 @@ export default function LoginScreen({ navigation }) {
   const { login } = useAuth();
   const theme = useTheme();
 
+  //correo y contraseña
   const handleLogin = async () => {
     if (!email || !password) {
       Alert.alert("Error", "Por favor ingresa tu correo y contraseña.");
