@@ -15,7 +15,7 @@ Esta Aplicación está desarrollada con React Native con Expo para poder gestion
 
 ## Enlace del video demostrativo
 
-- [Visualización de la App](#) *(Aquí puedes colocar el enlace de tu video o GIF)*
+https://drive.google.com/file/d/10iseJ1cABlyLH5SWYUxPMFlhlEJfcFIi/view?usp=sharing
 
 ---
 
