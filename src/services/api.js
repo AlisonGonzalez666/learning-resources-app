@@ -1,3 +1,5 @@
+//Api usando mockapi.io
+
 const API_URL = "https://6ac9bd863115bcc9581fecde.mockapi.io/gestorRecursos/v1/getRecurso";
 
 export const getResources = async () => {
